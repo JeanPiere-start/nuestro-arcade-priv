@@ -1,0 +1,9 @@
+{
+  "name": "Nuestro Arcade Privado",
+  "short_name": "Arcade",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0a1e",
+  "theme_color": "#ff4d8d",
+  "icons": []
+}
